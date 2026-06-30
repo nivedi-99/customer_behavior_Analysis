@@ -16,5 +16,3 @@ Analyzed customer purchasing behavior using **PostgreSQL**, **Jupyter Notebook (
 * SQL-based data extraction and transformation
 * Interactive Power BI dashboards
 * Data-driven insights for business decision-making
-
-This version is concise, professional, and suitable for a GitHub portfolio project.

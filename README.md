@@ -16,3 +16,4 @@ Analyzed customer purchasing behavior using **PostgreSQL**, **Jupyter Notebook (
 * SQL-based data extraction and transformation
 * Interactive Power BI dashboards
 * Data-driven insights for business decision-making
+<img width="1343" height="735" alt="Screenshot 2026-09-02 152251" src="https://github.com/user-attachments/assets/fccfee09-1c0f-41c8-9c9f-0bcb3a8e7907" />
